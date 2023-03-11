@@ -1,4 +1,4 @@
-pandas 
+pandas
 streamlit
 numpy
 scipy

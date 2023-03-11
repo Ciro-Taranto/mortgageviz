@@ -1,6 +1,3 @@
-import plotly.graph_objects as go
-from plotly.subplots import make_subplots
-import streamlit as st
 import streamlit as st
 from financing import MortgageCalculator
 import numpy as np
